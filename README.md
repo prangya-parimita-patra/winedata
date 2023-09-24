@@ -1,3 +1,6 @@
+# Hosted web link on AWS amplifier:
+https://main.d22qbm4fnkjz1y.amplifyapp.com/
+
 ![Alt text](image.png) 
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
